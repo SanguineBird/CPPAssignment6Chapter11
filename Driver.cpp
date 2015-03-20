@@ -16,6 +16,6 @@ int main(){
   FMMoore::hello();
   GMMoore::hello();
   
-  system("pause");
+  system("pause"); //for proffesor's compiler
   return 0;
 } //end main
